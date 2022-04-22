@@ -1,0 +1,13 @@
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Francisco', 'Campos', 'fran199820152@outlook.es', '2022-04-18');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Alessa', 'Tellez', 'alessa1518@outlook.es', '2022-04-18');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Ricardo', 'Campos', 'rica2430@outlook.es', '2022-04-18');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Osmar', 'Mendoza', 'osmi69@outlook.es', '2022-04-18');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Alejandro', 'Ramirez', 'alejandro15@outlook.es', '2022-04-18');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Victor', 'Garcia', 'vico39@outlook.es', '2022-04-18');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Alfonso', 'Perez', 'alfonso@outlook.es', '2022-04-18');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Armando', 'Hoyos', 'armando@outlook.es', '2022-04-18');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Armando', 'Casas', 'arcasas@outlook.es', '2022-04-18');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Pedro', 'Pica Piedra', 'pdro@outlook.es', '2022-04-18');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Marcos', 'Tellez', 'mact@outlook.es', '2022-04-18');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Mimi', 'Garcia', 'mimig@outlook.es', '2022-04-18');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Yair', 'Mendoza', 'yair12@outlook.es', '2022-04-18');
